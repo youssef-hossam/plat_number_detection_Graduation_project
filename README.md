@@ -11,9 +11,3 @@ Image processing project with Python and openCV. it detects the Egyptian License
 	3. Press OK.
 	4. Show the plate and view votes in terminal.
 
-### Team Members
-1. [Ayman Azzam](https://github.com/AymanAzzam).
-
-2. [Abdelrahman Elgamil](https://github.com/ajammil).
-
-3. Yousef Dawod.
